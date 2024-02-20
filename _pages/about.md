@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the School of Computer Science and Technology, Xi'an Jiaotong University, advised by Prof. [Chen Li](https://chenli.group/) and Prof. [Tieliang Gong](https://gong-tl.github.io/). I obtained my bachelor degree at Xi'an Jiaotong University, majored in Computer Science and Technology.
+I am a Ph.D. student at the School of Computer Science and Technology, Xi’an Jiaotong University, advised by Prof. [Chen Li](https://chenli.group/) and Prof. [Tieliang Gong](https://gong-tl.github.io/). I obtained my bachelor's degree at Xi’an Jiaotong University, majoring in Computer Science and Technology.
 
-My main research interests lie in machine learning and statistical learning theory. Recently, I am focusing on **information-theoretic generalization analysis and algorithm design** in the fields of supervised learning, contrastive learning, and domain generalization. These works shed lights on understanding the success of existing learning algorithms, or inspire new algorithm designs which are provably more effective. My main research areas include:
+My research interests lie in machine learning and statistical learning theory. Recently, I have been focusing on **information-theoretic generalization analysis and algorithm design** in supervised learning, contrastive learning, and domain generalization. These works shed light on understanding the success of existing algorithms or inspire new algorithm designs that are provably more effective. My research areas include:
 
 * Analyzing the generalization ability of randomized learning algorithms through the lens of information theory.
 * Designing effective and robust learning algorithms based on information-theoretic measurements and analysis.
