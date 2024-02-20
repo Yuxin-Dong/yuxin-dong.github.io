@@ -19,7 +19,7 @@ redirect_from:
 
 * Programming Language: C/C++, Python, Matlab, Java, C#, JavaScript, PHP, HTML.
 * Software: Microsoft Office (Word, Excel, PowerPoint), Latex, Adobe (Photoshop, Premiere, Audition).
-* English: CET-4 (576), CET-6 (547), TOEFL (102).
+* English: CET-4 (576), CET-6 (547), TOEFL (102) [[Transcript]]({{ site.url }}{{ site.baseurl }}/files/TOEFL-Transcript.pdf).
 
 ## Selected Publications
 
@@ -46,6 +46,10 @@ redirect_from:
 
 {%- assign post = site.publications | where: "title", "Markov Subsampling Based on Huber Criterion" | first-%}
 {% include archive-single-cv.html %}
+
+## Patent
+
+A storage scheme for extremely large image files. Chen Li, Yuxin Dong, Pargorn Puttapirat, Jingyi Deng. Chinese Invention Patent. 2021. [[Certificate]]({{ site.url }}{{ site.baseurl }}/files/Patent-LibMI.pdf)
 
 ## Selected Awards
 
