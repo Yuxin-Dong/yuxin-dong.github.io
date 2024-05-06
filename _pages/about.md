@@ -17,22 +17,25 @@ My research interests lie in machine learning and statistical learning theory. R
 
 ## Selected Publications
 
-{%- assign post = site.publications | where: "title", "Optimal Randomized Approximations for Matrix-based Rényi's Entropy" | first-%}
+{%- assign post = site.publications | where: "title", "Towards Generalization beyond Pointwise Learning: A Unified Information-theoretic Perspective" | first-%}
 {% include archive-single.html %}
 
 {%- assign post = site.publications | where: "title", "Rethinking Information-theoretic Generalization: Loss Entropy Induced PAC Bounds" | first-%}
 {% include archive-single.html %}
 
-{%- assign post = site.publications | where: "title", "Understanding the Generalization Ability of Deep Learning Algorithms: A Kernelized Rényi’s Entropy Perspective" | first-%}
+{%- assign post = site.publications | where: "title", "Optimal Randomized Approximations for Matrix-based Rényi's Entropy" | first-%}
 {% include archive-single.html %}
 
-{%- assign post = site.publications | where: "title", "Computationally Efficient Approximations for Matrix-Based Rényi's Entropy" | first-%}
+{%- assign post = site.publications | where: "title", "Understanding the Generalization Ability of Deep Learning Algorithms: A Kernelized Rényi’s Entropy Perspective" | first-%}
 {% include archive-single.html %}
 
 {%- assign post = site.publications | where: "title", "Robust and Fast Measure of Information via Low-Rank Representation" | first-%}
 {% include archive-single.html %}
 
 {%- assign post = site.publications | where: "title", "Efficient Approximations for Matrix-Based Rényi’s Entropy on Sequential Data" | first-%}
+{% include archive-single.html %}
+
+{%- assign post = site.publications | where: "title", "Computationally Efficient Approximations for Matrix-Based Rényi's Entropy" | first-%}
 {% include archive-single.html %}
 
 {%- assign post = site.publications | where: "title", "Regularized Modal Regression on Markov-Dependent Observations: A Theoretical Assessment" | first-%}
