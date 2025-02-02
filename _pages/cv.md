@@ -23,6 +23,9 @@ redirect_from:
 
 ## Selected Publications
 
+{%- assign post = site.publications | where: "title", "How Does Distribution Matching Help Domain Generalization: An Information-theoretic Analysis" | first-%}
+{% include archive-single.html %}
+
 {%- assign post = site.publications | where: "title", "Towards Generalization beyond Pointwise Learning: A Unified Information-theoretic Perspective" | first-%}
 {% include archive-single.html %}
 
