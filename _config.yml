@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yuxin Dong"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student at Xi'an Jiaotong University"
-  location         : "Xi'an, Shaanxi"
+  bio              : "Post Doctoral Scholar at Ohio State University"
+  location         : "Columbus, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=yFJv-2kAAAAJ"         # Update with the correct link to your profile
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  resume           : CV_YuxinDong.pdf
 
 
 # Reading Files
