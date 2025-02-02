@@ -70,6 +70,12 @@
 .ai-courser-square:before {
   content: "\e815";
 }
+.ai-cv:before {
+  content: "\e9a5";
+}
+.ai-cv-square:before {
+  content: "\e90a";
+}
 .ai-dataverse:before {
   content: "\e816";
 }
