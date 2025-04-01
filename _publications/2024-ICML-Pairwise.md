@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-ICML-Pairwise
 year: 2024
 venue: International Conference on Machine Learning
-# link: "https://openreview.net/forum?id=GWSIo2MzuH"
+link: "https://proceedings.mlr.press/v235/dong24a.html"
 author: "<strong>Yuxin Dong</strong>, Tieliang Gong, Hong Chen, Mengxiang Li, Zhongjiang He, Shuangyong Song, Chen Li"
 pdf: "2024-ICML-Pairwise.pdf"
 code: "https://github.com/Yuxin-Dong/Pairwise"

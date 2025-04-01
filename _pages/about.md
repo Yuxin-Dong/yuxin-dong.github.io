@@ -37,3 +37,8 @@ My research interests lie in machine learning and statistical learning theory. R
 
 {%- assign post = site.publications | where: "title", "Efficient Approximations for Matrix-Based Rényi’s Entropy on Sequential Data" | first-%}
 {% include archive-single.html %}
+
+## PhD Thesis
+
+{%- assign post = site.publications | where: "title", "Information-theoretic Generalization Analysis for Randomized Learning Algorithms" | first-%}
+{% include archive-single.html %}

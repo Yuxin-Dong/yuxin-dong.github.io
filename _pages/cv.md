@@ -53,6 +53,11 @@ redirect_from:
 {%- assign post = site.publications | where: "title", "Markov Subsampling Based on Huber Criterion" | first-%}
 {% include archive-single.html %}
 
+## PhD Thesis
+
+{%- assign post = site.publications | where: "title", "Information-theoretic Generalization Analysis for Randomized Learning Algorithms" | first-%}
+{% include archive-single.html %}
+
 ## Patent
 
 A storage scheme for extremely large image files. Chen Li, Yuxin Dong, Pargorn Puttapirat, Jingyi Deng. Chinese Invention Patent. 2021. [[Certificate]]({{ site.url }}{{ site.baseurl }}/files/Patent-LibMI.pdf)
