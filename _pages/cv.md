@@ -23,6 +23,9 @@ redirect_from:
 
 ## Selected Publications
 
+{%- assign post = site.publications | where: "title", "Exactly Tight Information-theoretic Generalization Bounds via Binary Jensen-Shannon Divergence" | first-%}
+{% include archive-single.html %}
+
 {%- assign post = site.publications | where: "title", "How Does Distribution Matching Help Domain Generalization: An Information-theoretic Analysis" | first-%}
 {% include archive-single.html %}
 
